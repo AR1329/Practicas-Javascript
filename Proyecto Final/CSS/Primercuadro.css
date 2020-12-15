@@ -1,0 +1,55 @@
+nav2 > .navbar-nav{
+    display: flex;
+
+}
+
+.contorno{
+    border: solid 1px black;
+    margin-top: 5%;
+    margin-left: 16%;
+    margin-right: 20%;
+    margin-bottom: 7%;
+}
+
+.contorno > .cuerpo{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 7%;
+}
+
+.contorno > .cuerpo > p{
+    margin-right: 10%;
+    margin-bottom: 5%;
+}
+
+.contorno > .cuerpo > img{
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
+.contorno > .cuerpo > .contorno3{
+border-left: solid 3px blueviolet;
+}
+
+.contorno > .cuerpo > .contorno3 > p{
+    margin-left: 4%;
+    font-size: 20px;
+    margin-right: 15%;
+    margin-bottom: 5%;
+}
+
+.contorno > .cuerpo > h1{
+    margin-bottom: 3%;
+}
+
+.contorno > .cuerpo > span{
+    font-weight: bold;
+}
+
+.contorno > .cuerpo > h4{
+    margin-bottom: 3%;
+}
+
+.contorno > .cuerpo > .spacio{
+    margin-bottom: 10%;
+}

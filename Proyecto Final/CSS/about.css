@@ -1,0 +1,29 @@
+.contorno{
+    border: solid 1px black;
+
+}
+
+
+.cuerpo{
+    margin-top: 5%;
+    margin-bottom: 10%;
+    left: 15%;
+    width: 70%;
+    position: relative;
+
+}
+
+.contorno > p{
+    margin-left: 4%;
+    margin-top: 5%;
+    margin-right: 20%;
+    margin-bottom: 4%;
+}
+
+.h1{
+    font-family: 'Times New Roman', Times, serif;
+} 
+
+/* .cuerpo > .contorno > .img{
+    width: 50%;
+} */
